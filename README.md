@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dudetracey
-- 👀 I’m interested in programming to see how math and statistics are used in "real life." I'm currently looking for my first tech job!
+- 👀 I’m interested in programming to see how math and statistics are used in "real life."
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on anything! I'm a huge beginner!
 - 📫 How to reach me @dudetracey on twitter.
